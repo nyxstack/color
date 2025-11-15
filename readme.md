@@ -10,6 +10,13 @@
 
 This package helps you makes terminal output beautiful with support for 16/256/RGB colors, text styling, and background colors. Perfect for CLIs, logging systems, debugging tools, and any application that needs colorful terminal output.
 
+## Installation
+
+```bash
+go get github.com/nyxstack/color
+```
+
+
 ## ✨ Features
 
 - 🌈 **Full Color Support**: Standard 16 colors, bright variants, 256-color palette, and 24-bit RGB
